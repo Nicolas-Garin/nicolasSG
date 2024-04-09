@@ -1,0 +1,51 @@
+h2{color: red;
+}
+ body {
+    background-image: url(./anos-80-fundo-retro-com-elementos-geometricos-da-moda-decoracao-memphis_37925-1082.avif);
+    background-repeat:  no-repeat;
+    background-position: fixed;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+   a{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+   
+
+
+.mj{
+   text-shadow: 5px 3px purple;
+   font-family: sans-serif serif; 
+    font-size: 65px;
+    color: white;
+    border: 5px solid red;
+    background-color: black
+    
+ }
+ .pa {
+   color: white;
+   font-size: 20px;
+ }
+ h1 {
+   color: white;
+   font-size: 35px;
+   text-align: center;
+ }
+ .link {
+   text-align: center;
+ }
+
+.meio{
+   width: 80%;
+   margin: 1%;
+
+ 
+}
+
+ 
+
